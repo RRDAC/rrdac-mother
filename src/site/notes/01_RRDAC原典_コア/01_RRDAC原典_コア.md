@@ -3,7 +3,7 @@
 ---
 
 ---
-
+![創造フロー図00.webp](/img/user/%E5%89%B5%E9%80%A0%E3%83%95%E3%83%AD%E3%83%BC%E5%9B%B300.webp)
 ---
 # RRDAC原典 v2.00　1章：RRDACコア
 
@@ -45,7 +45,7 @@ https://rrdac.wepage.com
 
 ## 目次
 
-**1章：コア編**
+### 1章：コア編
 
 - [[#【世界観】RRDAC：ラダック]]
 - [[#【RRDAC基本憲章（Universal Principles）】]]
