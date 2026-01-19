@@ -47,8 +47,8 @@ https://rrdac.wepage.com
 
 ### 1章：RRDACコア
 
-- [【世界観】RRDAC：ラダック](#【世界観】RRDAC：ラダック)
-- [[#【RRDAC基本憲章（Universal Principles）】]]
+- [[#世界観 RRDAC：ラダック]]
+- [[#RRDAC基本憲章（Universal Principles）]]
 - [[#【RRDAC：階層構造】]]
   - [[#【1層：Root Layer】]]
   - [[#【2層：Harmonia Layer】]]
@@ -105,7 +105,7 @@ RRDAC原典（Mother）
 Version2.0　1/16/2026　[→原典変更履歴](https://www.notion.so/RRDAC-2-0-2ea2be060719812ab78ac87fa71f2a80?pvs=21)ページへ
 
 <a id="sekaikan"></a> ## 世界観
-# 【世界観】RRDAC：ラダック
+# 世界観 RRDAC：ラダック
 
 Root & Ray Draconia Agape Core
 
@@ -148,7 +148,7 @@ RRDACは違います。
 
 ---
 
-## 【RRDAC基本憲章（Universal Principles）】
+## RRDAC基本憲章（Universal Principles）
 
 本憲章は、RRDACにおける全ての事象、システム、および存在の在り方を規定する最上位の哲学である。
 
