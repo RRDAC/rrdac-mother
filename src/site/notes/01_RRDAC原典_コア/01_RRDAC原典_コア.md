@@ -46,7 +46,7 @@ https://rrdac.wepage.com
 
 ### 1章：RRDACコア
 
--  [[#世界観-RRDAC-ラダック]]
+-  [[#世界観_RRDAC_ラダック]]
 -  [[#RRDAC基本憲章（Universal Principles）]]
 -  [[#【RRDAC：階層構造】]]
   -  [[#【1層：Root Layer】]]
