@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-rrdac/q-and-a/"}
+{"dg-publish":true,"permalink":"/04_RRDAC原典_ガイド/ガイド・用語集・Q&A・履歴/"}
 ---
 
 

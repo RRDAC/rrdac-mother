@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-rrdac/rrdac/"}
+{"dg-publish":true,"permalink":"/03_RRDAC原典_公共/RRDAC原典_公共/"}
 ---
 
 # RRDAC原典 v2.00　3章：公共

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-rrdac/02-rrdac/"}
+{"dg-publish":true,"permalink":"/02_RRDAC原典_生活/02_RRDAC原典_生活/"}
 ---
 
 # RRDAC原典 v2.00　2章：生活

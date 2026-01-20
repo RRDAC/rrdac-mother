@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-rrdac/01-rrdac/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/01_RRDAC原典_コア/01_RRDAC原典_コア/","tags":["gardenEntry"]}
 ---
 
 

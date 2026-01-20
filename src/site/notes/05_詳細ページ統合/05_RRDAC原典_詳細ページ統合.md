@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05/05-rrdac/"}
+{"dg-publish":true,"permalink":"/05_詳細ページ統合/05_RRDAC原典_詳細ページ統合/"}
 ---
 
 
