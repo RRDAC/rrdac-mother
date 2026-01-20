@@ -46,10 +46,10 @@ https://rrdac.wepage.com
 
 ### 1章：RRDACコア
 
-- [[#世界観 RRDAC 「ラダック」]]
-- [[#RRDAC基本憲章（Universal Principles）]]
-- [[#【RRDAC：階層構造】]]
-  - [[#【1層：Root Layer】]]
+-  [[#世界観 RRDAC 「ラダック」]]
+-  [[#RRDAC基本憲章（Universal Principles）]]
+-  [[#【RRDAC：階層構造】]]
+  -  [[#【1層：Root Layer】]]
   - [[#【2層：Harmonia Layer】]]
   - [[#【3層：Draconia Layer】]]
   - [[#【4層：Agape Layer】]]
