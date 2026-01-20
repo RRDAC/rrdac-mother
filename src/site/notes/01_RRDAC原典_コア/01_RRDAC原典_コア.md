@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/01-rrdac/01-rrdac/","tags":["gardenEntry"]}
 ---
 
----
 
 ---
 # RRDAC原典 v2.00　1章：RRDACコア
@@ -102,7 +101,7 @@ RRDAC原典（Mother）
 
 Version2.0　1/16/2026　[→原典変更履歴](https://www.notion.so/RRDAC-2-0-2ea2be060719812ab78ac87fa71f2a80?pvs=21)ページへ
 
-<a id="sekaikan"></a> ## 世界観
+<a id="sekaikan"></a> 
 ### 世界観_RRDAC_ラダック
 
 Root & Ray Draconia Agape Core

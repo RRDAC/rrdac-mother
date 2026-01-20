@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/02-rrdac/02-rrdac/"}
 ---
 
----
-
 # RRDAC原典 v2.00　2章：生活
 ## 目次
 
