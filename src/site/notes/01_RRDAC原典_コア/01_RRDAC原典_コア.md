@@ -42,11 +42,11 @@ Root & Ray Draconia Agape Core
 RRDAC公式/Contactフォーム
 https://rrdac.wepage.com
 
-## 1章目次
+## 第1章目次
 
 ### 1章：RRDACコア
 
--  [[#世界観 RRDAC 「ラダック」]]
+-  [[#世界観-RRDAC-ラダック]]
 -  [[#RRDAC基本憲章（Universal Principles）]]
 -  [[#【RRDAC：階層構造】]]
   -  [[#【1層：Root Layer】]]
@@ -176,7 +176,7 @@ RRDACにおいて情報は、存在を縛るための「管理」ではなく、
 
 愛に基づく創造こそが、人類の次の進化です。 あなたは、今、どの周波数帯域を生きていますか？
 
-[[#1章目次|→サイトマップへ]]
+[[#第1章目次|→サイトマップへ]]
 
 
 
